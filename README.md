@@ -1,4 +1,13 @@
-## Hi there 👋
+# 🗺 Sufiyaan's Portfolio
+
+Welcome to my data portfolio! Here, I document a summary of my projects in the data science field. 
+
+## 📚 Table of Contents
+- [Data Engineering](#data-engineering)
+- [SQL](#sql)
+- [Python](#python)
+- [Tableau](#tableau)
+- [Katie's Guides](#katies-guides)
 
 <!--
 **Sufiyaan-Momin/Sufiyaan-Momin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
