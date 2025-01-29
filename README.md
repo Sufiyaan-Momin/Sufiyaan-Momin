@@ -5,5 +5,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 
 
-Check out [my LinkedIn post](https://www.linkedin.com/in/sufiyaan-momin/) and [GitHub guide](https://github.com/sufiyaan-momin/Transition-into-Data-Analytics?tab=readme-ov-file#-where-to-learn-sql) where I've compiled a comprehensive list of free Data Science resources. From YouTube videos to interactive websites, courses, practice sites, and projects, this list has got you covered.
+Check out [my LinkedIn](https://www.linkedin.com/in/sufiyaan-momin/) and [Portfolio](sufiyaanmomin.com) where I've compiled a comprehensive list of Data Science projects and resources that I have been using. 
 
